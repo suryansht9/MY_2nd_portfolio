@@ -37,5 +37,4 @@ This project acts as a digital showcase for:
 
 ---
 
-## 📁 Repository Contents
 
